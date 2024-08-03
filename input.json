@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "product": {"id": 1, "name": "initial"},
+    "quantity": 1,
+    "snapshotDate": "2024-06-28",
+    "zone": {"id": 1, "name": "initial"}
+  }
+]
